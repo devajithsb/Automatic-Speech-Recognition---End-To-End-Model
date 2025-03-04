@@ -30,8 +30,6 @@ Each sample is labeled for training and evaluation. Preprocessing includes **noi
 │── DNN-ASR.ipynb                                  # DNN-based ASR implementation
 │── CTC-ASR.ipynb                                  # CTC-based ASR implementation
 │── End-to-End-ASR.ipynb                           # End-to-End model implementation
-│── requirements.txt                               # Required dependencies
-│── dataset/                                       # ASR dataset (to be added)
 │── results/                                       # Model performance results (to be added)
 ```
 
@@ -42,10 +40,6 @@ To set up the project locally, follow these steps:
 ```bash
 git clone https://github.com/devajithsb/Automatic-Speech-Recognition---End-To-End-Model.git
 cd ASR-Deep-Learning
-```
-#### **Install dependencies:**  
-```bash
-pip install -r requirements.txt
 ```
 Run the Jupyter Notebooks to train and evaluate the models.  
 
@@ -77,4 +71,3 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ---
 
-Let me know if you need any refinements! 🎤🔍
